@@ -1,6 +1,6 @@
 # Ex-7-GENERATION OF ABSTRACT SYNTAX TREE
-# NAME: Akash A
-# REGISTER NUMBER:212221040010
+# NAME: sivaragul.m
+# REGISTER NUMBER:212221040155
 # Date:20.03.2024
 # Aim: 
 To write a program to convert the BNF rules into YACC form and to generate Abstract Syntax Tree.
